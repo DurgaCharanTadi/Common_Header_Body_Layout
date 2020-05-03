@@ -1,0 +1,19 @@
+{
+  "name": "n",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DurgaCharanTadi/Common_Header_Body_Layout.git"
+  },
+  "author": "Durga Charan Tadi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DurgaCharanTadi/Common_Header_Body_Layout/issues"
+  },
+  "homepage": "https://github.com/DurgaCharanTadi/Common_Header_Body_Layout#readme"
+}
